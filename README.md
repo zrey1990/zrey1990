@@ -14,7 +14,7 @@
 - <b>GUI Project (Java)</b>
   - [BS: Software Development C482](https://github.com/zrey1990/C482GUIProject)
 - <b>Capstone Scheduler Project (Java)</b>
-  - [BS: Software Development C482](https://github.com/zrey1990/C482GUIProject)
+  - [BS: Software Development C482](https://github.com/zrey1990/C868CapProject)
 
 <h2> 🤳 Connect with me:</h2>
 
