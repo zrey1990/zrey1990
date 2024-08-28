@@ -5,6 +5,7 @@
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
 - <b>Capstone Scheduler Project (Java)</b>
   - [BS: Software Development C868](https://github.com/zrey1990/C868CapProject)
     
