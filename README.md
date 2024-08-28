@@ -8,7 +8,6 @@
 
 - <b>Capstone Scheduler Project (Java)</b>
   - [BS: Software Development C868](https://github.com/zrey1990/C868CapProject)
-    
 - <b>Siam Thai Athens Restaurant Menu Project</b>
   - [Siam Thai Athens Restaurant Menu](https://github.com/zrey1990/SiamThaiAthens)
   - [Siam Thai Athens Restaurant Website](http://siamthaiathens.com)
