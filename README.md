@@ -11,10 +11,8 @@
 - <b>Siam Thai Athens Restaurant Menu Project</b>
   - [Siam Thai Athens Restaurant Menu](https://github.com/zrey1990/SiamThaiAthens)
   - [Siam Thai Athens Restaurant Website](http://siamthaiathens.com)
-    
 - <b>Front-End Web Development Project (HTML, CSS, JavaScript)</b>
   - [BS: Software Development C773](https://github.com/zrey1990/C773Project)
-    
 - <b>GUI Project (Java)</b>
   - [BS: Software Development C482](https://github.com/zrey1990/C482GUIProject)
 
