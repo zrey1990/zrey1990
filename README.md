@@ -20,16 +20,12 @@
 
 - <b>CompTIA PenTest+</b>
   - [Credly Verification Link](https://www.credly.com/badges/afdb70aa-bb1e-4566-a8d8-d6c8fec8782a/public_url)
- 
 - <b>CompTIA CySA+</b>
   - [Credly Verification Link](https://www.credly.com/badges/d0e3e845-cada-4a58-8967-50032229bb4e/public_url)
-
 - <b>CompTIA Security+</b>
   - [Credly Verification Link](https://www.credly.com/badges/df37a195-6d1a-4254-9c57-726518511331/public_url)
-
 - <b>ISC2 Certified in Cybersecurity</b>
   - [Credly Verification Link](https://www.credly.com/badges/c78ea8f4-677a-448f-989c-0274598dcb5a/public_url)
-
 - <b>PMI-CAPM</b>
   - [Credly Verification Link](https://www.credly.com/badges/1a61c4d7-13c5-41cf-b459-08942932804e/public_url)
     
