@@ -13,6 +13,8 @@
   - [BS: Software Development C773](https://github.com/zrey1990/C773Project)
 - <b>GUI Project (Java)</b>
   - [BS: Software Development C482](https://github.com/zrey1990/C482GUIProject)
+- <b>Capstone Scheduler Project (Java)</b>
+  - [BS: Software Development C482](https://github.com/zrey1990/C482GUIProject)
 
 <h2> 🤳 Connect with me:</h2>
 
