@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Project 1</b>
-  - [Project 1 Lab](https://github.com/zrey1990)
+- <b>Building a SOC + Honeynet in Azure (Live Traffic)</b>
+  - [Building a SOC + Honeynet in Azure (Live Traffic) Lab](https://github.com/zrey1990/cybermasterclass)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
