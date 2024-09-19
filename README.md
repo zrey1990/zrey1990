@@ -29,6 +29,7 @@
   - [Credly Verification Link](https://www.credly.com/badges/d0e3e845-cada-4a58-8967-50032229bb4e/public_url)
 - <b>CompTIA Security+</b>
   - [Credly Verification Link](https://www.credly.com/badges/df37a195-6d1a-4254-9c57-726518511331/public_url)
+- <b>Cybersecurity Analyst (LeveldCareers)</b> 
 - <b>ISC2 Certified in Cybersecurity</b>
   - [Credly Verification Link](https://www.credly.com/badges/c78ea8f4-677a-448f-989c-0274598dcb5a/public_url)
 - <b>PMI-CAPM</b>
