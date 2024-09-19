@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zack!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>Building a SOC + Honeynet in Azure (Live Traffic)</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic) Lab](https://github.com/zrey1990/cybermasterclass)
@@ -19,7 +19,7 @@
 - <b>GUI Project (Java)</b>
   - [BS: Software Development C482](https://github.com/zrey1990/C482GUIProject)
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>🥷 Certifications:</h2>
 
 - <b>CompTIA PenTest+</b>
   - [Credly Verification Link](https://www.credly.com/badges/afdb70aa-bb1e-4566-a8d8-d6c8fec8782a/public_url)
