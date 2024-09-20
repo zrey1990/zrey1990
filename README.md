@@ -6,8 +6,6 @@
   - [Building a SOC + Honeynet in Azure (Live Traffic) Lab](https://github.com/zrey1990/cybermasterclass)
 - <b>Azure Key Vault Creation & Backup Vaults with Resource Groups</b>
   - [Azure Key Vault Creation Lab](https://github.com/zrey1990/kvwguproject)
-- <b>Create Batch Users with PowerShell</b>
-  - [Create Batch Users with PowerShell Lab](https://github.com/zrey1990/)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
