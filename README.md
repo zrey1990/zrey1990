@@ -8,6 +8,8 @@
   - [Azure Key Vault Creation Lab](https://github.com/zrey1990/kvwguproject)
 - <b>Creating Bulk Users in Active Directory with VirtualBox</b>
   - [Creating Bulk Users in Active Directory with VirtualBox](https://github.com/zrey1990/virtualboxad)
+- <b>Creating a File Integrity Monitor with PowerShell ISE in VirtualBox</b>
+  - [Creating a FIM with PowerShell ISE in VirtualBo](https://github.com/zrey1990/powerfim)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
