@@ -9,7 +9,7 @@
 - <b>Creating a File Integrity Monitor with PowerShell ISE in VirtualBox</b>
   - [Creating a FIM with PowerShell ISE in VirtualBox](https://github.com/zrey1990/powerfim)
 - <b>OpenVAS Vulnerability Management Lab with Azure</b>
-  - [OpenVAS Vulnerability Management Lab with Azure]()
+  - [OpenVAS Vulnerability Management Lab with Azure](https://github.com/zrey1990/openvasazure)
 - <b>Azure Key Vault Creation & Backup Vaults with Resource Groups</b>
   - [Azure Key Vault Creation Lab](https://github.com/zrey1990/kvwguproject)
 
